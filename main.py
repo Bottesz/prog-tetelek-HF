@@ -1,0 +1,2 @@
+import feladatok
+feladatok.elsofeladat()
